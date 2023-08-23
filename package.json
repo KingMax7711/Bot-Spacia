@@ -1,0 +1,22 @@
+{
+  "name": "bot-spacia",
+  "version": "1.0.0",
+  "description": "Bot Discord pour le serveur Spacia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RP",
+    "BOT",
+    "BackEnd"
+  ],
+  "author": "Maxime C.",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.12.1",
+    "fs": "^0.0.1-security",
+    "xstate": "^4.38.2"
+  }
+}
