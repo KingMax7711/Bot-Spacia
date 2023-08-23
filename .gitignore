@@ -3012,4 +3012,4 @@ node_modules/xstate/lib/utils.js
 node_modules/xstate/lib/waitFor.d.ts
 node_modules/xstate/lib/waitFor.js
 node_modules/xstate/lib/_virtual/_tslib.js
-Config\Token_Config.js
+Config/Token_Config.js
